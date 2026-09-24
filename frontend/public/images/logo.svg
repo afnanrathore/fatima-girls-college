@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fatima Girls College">
+  <defs>
+    <linearGradient id="fgc" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E91E63"/>
+      <stop offset="100%" stop-color="#7B1FA2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#fgc)"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
+  <text x="32" y="38" text-anchor="middle" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700" letter-spacing="0.5">FGC</text>
+</svg>
